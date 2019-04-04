@@ -1,0 +1,5 @@
+SELECT * FROM `stocks` WHERE Shares > 9 
+
+SELECT * FROM `cars` GROUP BY Model ORDER BY Model 
+
+SELECT * FROM `pets` WHERE Color='sable' 
